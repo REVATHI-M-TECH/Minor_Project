@@ -4,11 +4,7 @@ data/
 # Ignore virtual environment
 venv/
 
-# Ignore model files
-models/
-*.h5
-*.pt
-*.pth
+
 
 # Ignore cache files
 __pycache__/
