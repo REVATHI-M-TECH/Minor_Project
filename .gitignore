@@ -1,0 +1,22 @@
+# Ignore dataset
+data/
+
+# Ignore virtual environment
+venv/
+
+# Ignore model files
+models/
+*.h5
+*.pt
+*.pth
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore zip files
+*.zip
+
+# Ignore system files
+.DS_Store
+Thumbs.db
